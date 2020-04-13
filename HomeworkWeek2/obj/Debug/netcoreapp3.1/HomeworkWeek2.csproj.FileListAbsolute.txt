@@ -1,0 +1,13 @@
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\bin\Debug\netcoreapp3.1\HomeworkWeek2.exe
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\bin\Debug\netcoreapp3.1\HomeworkWeek2.deps.json
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\bin\Debug\netcoreapp3.1\HomeworkWeek2.runtimeconfig.json
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\bin\Debug\netcoreapp3.1\HomeworkWeek2.runtimeconfig.dev.json
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\bin\Debug\netcoreapp3.1\HomeworkWeek2.dll
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\bin\Debug\netcoreapp3.1\HomeworkWeek2.pdb
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\obj\Debug\netcoreapp3.1\HomeworkWeek2.csprojAssemblyReference.cache
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\obj\Debug\netcoreapp3.1\HomeworkWeek2.csproj.CoreCompileInputs.cache
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\obj\Debug\netcoreapp3.1\HomeworkWeek2.AssemblyInfoInputs.cache
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\obj\Debug\netcoreapp3.1\HomeworkWeek2.AssemblyInfo.cs
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\obj\Debug\netcoreapp3.1\HomeworkWeek2.dll
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\obj\Debug\netcoreapp3.1\HomeworkWeek2.pdb
+C:\mySrc\git\UW_C_ClientApps\HomeworkWeek2\obj\Debug\netcoreapp3.1\HomeworkWeek2.genruntimeconfig.cache
