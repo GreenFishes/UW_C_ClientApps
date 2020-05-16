@@ -1,0 +1,20 @@
+﻿<Window x:Class="HomeworkWeek4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HomeworkWeek4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="800">
+
+    <StackPanel>
+        <Button x:Name="Button1" Height="40" Width="120"    
+           Canvas.Left="10" Canvas.Top="10"    
+           Content="Check Zip Code"   
+           VerticalAlignment="Top"    
+           HorizontalAlignment="Left" Click="button1_Click"/>
+        <TextBox x:Name="txtZipCode" Width="200" TextChanged="txtZipCode_TextChanged"/>
+        <Separator Width="20" Height ="150" Background="Transparent"/>
+        <TextBox x:Name="txtStatus1" Width="200" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+    </StackPanel>
+</Window>

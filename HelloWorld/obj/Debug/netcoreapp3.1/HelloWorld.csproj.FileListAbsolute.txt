@@ -36,3 +36,5 @@ C:\mySrc\git\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
 C:\mySrc\git\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
 C:\mySrc\git\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
 C:\mySrc\git\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+C:\mySrc\git\UW_C_ClientApps\HelloWorld\obj\Debug\netcoreapp3.1\MouseWindow.g.cs
+C:\mySrc\git\UW_C_ClientApps\HelloWorld\obj\Debug\netcoreapp3.1\MouseWindow.baml
