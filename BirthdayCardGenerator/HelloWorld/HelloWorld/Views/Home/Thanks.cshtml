@@ -1,0 +1,29 @@
+﻿@model HelloWorld.Models.GuestResponse
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" type="text/css" href="~/css/styles.css" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+
+    <h1 class="text-center"><p class="text-light bg-dark"> Birthday Card Generator </p></h1>
+    <hr />
+    <h1 class="text-center">Birthday Card Sent</h1>
+    <div class="text-center">
+    <h4 class="m-4">
+
+            <br /><br /><br />
+            <b>To:</b>  @Model.To
+            <br /><br /><br />
+            <b>From:</b> @Model.From
+            <br /><br /><br />
+            <b>Message:</b> @Model.Message
+            <br /><br />
+
+    </h4>
+     </div>
+
+</body> />
